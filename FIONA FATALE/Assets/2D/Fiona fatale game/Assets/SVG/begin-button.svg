@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 678 137">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: BebasNeueBold, 'Bebas Neue';
+        font-size: 113px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #ff2e2e;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-3" width="678" height="137"/>
+      <text class="cls-1" transform="translate(254.02 107.62) scale(.84 1)"><tspan x="0" y="0">BEGIN</tspan></text>
+      <polygon class="cls-2" points="454.36 43.5 468.63 51.95 488.66 64.46 492 67.06 466.43 84.02 455.33 90.63 454.74 85.74 454 65.69 454.02 45.5 454.36 43.5 454.36 43.5"/>
+    </g>
+  </g>
+</svg>

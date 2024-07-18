@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 134.18 154.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c6c6c6;
+        mix-blend-mode: screen;
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-4 {
+        opacity: .5;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        mix-blend-mode: multiply;
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="34.65" y1="75.61" x2="100.37" y2="75.61" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="34.65" y1="70.83" x2="100.37" y2="70.83" xlink:href="#linear-gradient"/>
+  </defs>
+  <g class="cls-5">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <g>
+            <path class="cls-1" d="M47.77,111.85l19.74-19.74,19.74,19.74,12.41-12.41v-4.09l-12.41,12.41-19.74-19.74-19.74,19.74-12.41-12.41v4.09l12.41,12.41h0ZM55.1,75.61l-19.74-19.74v4.09l17.69,17.69,2.05-2.05h0ZM79.92,75.61l2.05,2.05,17.69-17.69v-4.09l-19.74,19.74h0Z"/>
+            <g>
+              <polygon class="cls-3" points="35.36 95.35 47.77 107.76 67.51 88.02 87.25 107.76 99.66 95.35 79.92 75.61 99.66 55.87 87.25 43.46 67.51 63.2 47.77 43.46 35.36 55.87 55.1 75.61 35.36 95.35 35.36 95.35"/>
+              <path class="cls-4" d="M79.92,81.34l16.87,16.87,2.87-2.87-19.74-19.74v5.73h0ZM55.1,75.61l-19.74,19.74,2.87,2.87,16.87-16.87v-5.73h0ZM47.77,49.19l19.74,19.74,19.74-19.74,9.55,9.55,2.87-2.87-6.68-6.68-5.73-5.73-5.73,5.73-14.01,14.01-14.01-14.01-5.73-5.73-5.73,5.73-6.68,6.68,2.87,2.87,9.54-9.55h0Z"/>
+            </g>
+          </g>
+          <polygon class="cls-2" points="132.68 115.33 132.68 39.6 67.09 1.73 1.5 39.6 1.5 115.33 67.09 153.2 132.68 115.33"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

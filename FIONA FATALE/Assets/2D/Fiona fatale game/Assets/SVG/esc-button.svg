@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Axiforma-Regular, Axiforma;
+        font-size: 36px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ff2e2e;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(39.75 79.11) scale(.84 1)"><tspan x="0" y="0">ESC</tspan></text>
+      <rect class="cls-2" x=".5" y=".5" width="129" height="129" rx="31.81" ry="31.81"/>
+    </g>
+  </g>
+</svg>
